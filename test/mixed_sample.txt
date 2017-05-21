@@ -1,4 +1,0 @@
-	This is soft tabbed line.
-    This is hard tabbed line.
-	This is hard tabbed line.
-

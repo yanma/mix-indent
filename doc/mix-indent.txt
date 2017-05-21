@@ -1,3 +1,0 @@
-*mix-indent.txt* mixed indent visualizer
-
-Awesome description about this plugin.
